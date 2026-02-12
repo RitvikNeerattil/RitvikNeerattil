@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Ritvik+Neerattil)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Ritvik+Neerattil" alt="Typing SVG" /></a>
 <!--
 **RitvikNeerattil/RitvikNeerattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
