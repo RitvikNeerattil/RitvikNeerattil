@@ -14,41 +14,16 @@
 
 I'm a student at the University of South Carolina majoring in Computer Science and minoring in Data Science and Cybersecurity. I enjoy solving challenging problems through thoughtful design and practical coding.
 
-<p style="margin:0;">Currently working on</p>
-
-<!-- Container that controls the combined max width and centers everything -->
-<div style="max-width:900px; width:100%; margin:0 auto; padding:0;">
-
+<div style="max-width:900px;margin:0 auto;padding:0;">
   <p style="margin:0 0 10px 0;">Currently working on</p>
-
-  <!-- Repo row: two fixed halves with exact 10px middle gap -->
-  <div style="display:flex; align-items:stretch; margin:0 0 10px 0; padding:0;">
-    <!-- Left card: exact width calc keeps total = max-width and gives 10px gap -->
-    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
-       style="display:block; width:calc(50% - 5px); margin:0; padding:0; line-height:0;">
-      <img
-        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
-        style="width:100%; height:auto; display:block;" />
-    </a>
-    <!-- spacer: 10px gap (use margin on the second element if preferred) -->
-    <div style="width:10px; display:block;"></div>
-    <!-- Right card -->
-    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
-       style="display:block; width:calc(50% - 5px); margin:0; padding:0; line-height:0;">
-      <img
-        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
-        style="width:100%; height:auto; display:block;" />
-    </a>
+  <div style="margin:0 0 10px 0;padding:0;font-size:0;line-height:0;">
+    <div style="display:inline-block;vertical-align:top;width:calc(50% - 5px);margin:0;padding:0;font-size:initial;line-height:normal;"><a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="display:block;line-height:0;"><img src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" style="width:100%;height:auto;display:block;" /></a></div><!--
+    --><div style="display:inline-block;width:10px;height:1px;line-height:0;font-size:0;"></div><!--
+    --><div style="display:inline-block;vertical-align:top;width:calc(50% - 5px);margin:0;padding:0;font-size:initial;line-height:normal;"><a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="display:block;line-height:0;"><img src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" style="width:100%;height:auto;display:block;" /></a></div>
   </div>
-
-  <!-- Graph aligned to same max-width -->
-  <div style="margin:0; padding:0; line-height:0;">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true"
-      style="width:100%; height:auto; display:block;" />
-  </div>
-
+  <div style="margin:0;padding:0;line-height:0;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true" style="width:100%;height:auto;display:block;" /></div>
 </div>
+
 
 
 
