@@ -5,18 +5,18 @@
 ---
 I'm a student at the University of South Carolina majoring in Computer Science and minoring in Data Science and Cybersecurity. I enjoy solving challenging problems through thoughtful design and practical coding.
 
-<div style="display: flex; flex-wrap: nowrap; align-items: stretch; gap: 8px; max-width: 80%; max-height: 280px">
+<div style="display: flex; flex-wrap: nowrap; align-items: stretch; gap: 8px; max-width: 80%; max-height: 300px">
   <img
     src="https://streak-stats.demolab.com?user=RitvikNeerattil&theme=github-dark-dimmed&hide_border=true&border_radius=16&card_width=170&card_height=300&hide_current_streak=true&hide_longest_streak=true"
-    style="width: 20%; height: auto; max-height: 280px"
+    style="width: 20%; height: auto; max-height: 300px"
   />
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&custom_title=Contribution%20Graph"
-    style="width: 100%; height: auto; max-height: 280px"
+    style="width: 100%; height: auto; max-height: 300px"
   />
 </div>
 
-
+---
 <table width="100%">
   <tr>
     <td align="left" width="75%">
