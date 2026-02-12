@@ -16,27 +16,29 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 
 <p style="margin:0;">Currently working on</p>
 
-<!-- Container (centered, controls overall max width) -->
-<div style="max-width:900px; width:100%; margin:0 auto; padding:0;">
-
-  <!-- Repo Row: two fixed halves with exact 10px gap -->
-  <div style="display:flex; gap:10px; align-items:stretch; margin:0 0 10px 0; padding:0;">
-    <!-- Each card takes exactly half minus half the gap -->
-    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
-       style="flex:0 0 calc(50% - 5px); display:block; line-height:0;">
-      <img
-        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
-        style="width:100%; height:auto; display:block;" />
-    </a>
-    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
-       style="flex:0 0 calc(50% - 5px); display:block; line-height:0;">
-      <img
-        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
-        style="width:100%; height:auto; display:block;" />
-    </a>
-  </div>
-
-</div>
+<!-- Container table: centered and controls overall max width -->
+<table align="center" style="width:100%; max-width:900px; border-collapse:collapse; margin:0 auto 10px;">
+  <tr>
+    <!-- Left repo cell (no padding) -->
+    <td style="padding:0; width:50%;">
+      <a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="display:block; line-height:0;">
+        <img
+          src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
+          style="width:100%; height:auto; display:block;" />
+      </a>
+    </td>
+    <!-- spacer cell: exact 10px gap -->
+    <td style="padding:0; width:10px;"></td>
+    <!-- Right repo cell (no padding) -->
+    <td style="padding:0; width:50%;">
+      <a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="display:block; line-height:0;">
+        <img
+          src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
+          style="width:100%; height:auto; display:block;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Graph: same max-width and centered so edges align -->
 <div style="max-width:900px; width:100%; margin:0 auto 10px; padding:0; line-height:0;">
@@ -44,8 +46,6 @@ I'm a student at the University of South Carolina majoring in Computer Science a
     src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true"
     style="width:100%; height:auto; display:block;" />
 </div>
-
-
 
 <!-- Badge Row -->
 <div align="center" style="margin:0; padding:0; display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
