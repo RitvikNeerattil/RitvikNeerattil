@@ -8,29 +8,33 @@
   </a>
 </div>
 
-<div style="margin:7px 0;">
+<div style="margin:4px 0;">
   <hr style="margin:0;">
 </div>
 
 I'm a student at the University of South Carolina majoring in Computer Science and minoring in Data Science and Cybersecurity. I enjoy solving challenging problems through thoughtful design and practical coding.
 
-<p style="margin:0 0 10px 0;">Currently working on</p>
+<p style="margin:0 0 10px 0;">I'm currently working on</p>
 
 <div align="center" style="margin:0 0 10px 0; font-size:0;">
 
   <a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
-    <img width="49.5%" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+    <img style="width:calc(50% - 5px); display:inline-block;" 
+         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
   </a><!--
   --><span style="display:inline-block; width:10px;"></span><!--
   --><a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
-    <img width="49.5%" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+    <img style="width:calc(50% - 5px); display:inline-block;" 
+         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
   </a>
 
 </div>
 
 <div align="center" style="margin:0 0 10px 0;">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true" />
+  <img width="100%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true" />
 </div>
+
 
 
 
