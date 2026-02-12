@@ -16,22 +16,35 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 
 <p style="margin:0;">Currently working on</p>
 
-<!-- Repo Row: centered container with max-width, two cards take 49% each -->
-<div style="margin:0 auto 10px; padding:0; max-width:900px; width:100%;">
-  <div style="display:flex; gap:10px; width:100%; line-height:0;">
-    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="width:49%; line-height:0;">
-      <img style="width:100%; display:block;" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+<!-- Container (centered, controls overall max width) -->
+<div style="max-width:900px; width:100%; margin:0 auto; padding:0;">
+
+  <!-- Repo Row: two fixed halves with exact 10px gap -->
+  <div style="display:flex; gap:10px; align-items:stretch; margin:0 0 10px 0; padding:0;">
+    <!-- Each card takes exactly half minus half the gap -->
+    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
+       style="flex:0 0 calc(50% - 5px); display:block; line-height:0;">
+      <img
+        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
+        style="width:100%; height:auto; display:block;" />
     </a>
-    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="width:49%; line-height:0;">
-      <img style="width:100%; display:block;" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
+       style="flex:0 0 calc(50% - 5px); display:block; line-height:0;">
+      <img
+        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
+        style="width:100%; height:auto; display:block;" />
     </a>
   </div>
+
 </div>
 
-<!-- Graph Row: same max-width and centered so edges align -->
-<div style="margin:0 auto 10px; padding:0; max-width:900px; width:100%; line-height:0;">
-  <img style="width:100%; display:block;" src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true" />
+<!-- Graph: same max-width and centered so edges align -->
+<div style="max-width:900px; width:100%; margin:0 auto 10px; padding:0; line-height:0;">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true"
+    style="width:100%; height:auto; display:block;" />
 </div>
+
 
 
 <!-- Badge Row -->
