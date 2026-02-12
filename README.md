@@ -16,13 +16,14 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 
 <p style="margin:0 0 10px 0;">Currently working on</p>
 
-<div align="center" style="margin:0 0 10px 0;">
+<div align="center" style="margin:0 0 10px 0; font-size:0;">
 
   <a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
-    <img width="49%" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
-  </a>
-  <a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
-    <img width="49%" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+    <img width="49.5%" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+  </a><!--
+  --><span style="display:inline-block; width:10px;"></span><!--
+  --><a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
+    <img width="49.5%" src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
   </a>
 
 </div>
@@ -30,7 +31,6 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 <div align="center" style="margin:0 0 10px 0;">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true" />
 </div>
-
 
 
 
