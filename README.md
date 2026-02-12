@@ -17,29 +17,23 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 <p style="margin:0 0 10px 0;">I'm currently working on</p>
 
 <div align="center" style="margin:0 0 10px 0; font-size:0;">
-
   <a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
     <img style="width:calc(50% - 5px); display:inline-block;" 
-         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
   </a><!--
   --><span style="display:inline-block; width:10px;"></span><!--
   --><a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
     <img style="width:calc(50% - 5px); display:inline-block;" 
-         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed" />
+         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed&border_radius=16&hide_border=true" />
   </a>
-
 </div>
 
-<div align="center" style="margin:0 0 10px 0;">
+<div align="center">
   <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github-dark-dimmed&hide_border=true&radius=16&hide_title=true" />
 </div>
 
 
-
-
-
-<!-- Badge Row -->
 <div align="center" style="margin:0; padding:0; display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
