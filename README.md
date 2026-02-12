@@ -16,36 +16,35 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 
 <p style="margin:0;">Currently working on</p>
 
-<!-- Container table: centered and controls overall max width -->
-<table align="center" style="width:100%; max-width:900px; border-collapse:collapse; margin:0 auto 10px;">
-  <tr>
-    <!-- Left repo cell (no padding) -->
-    <td style="padding:0; width:50%;">
-      <a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="display:block; line-height:0;">
-        <img
-          src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
-          style="width:100%; height:auto; display:block;" />
-      </a>
-    </td>
-    <!-- spacer cell: exact 10px gap -->
-    <td style="padding:0; width:10px;"></td>
-    <!-- Right repo cell (no padding) -->
-    <td style="padding:0; width:50%;">
-      <a href="https://github.com/RitvikNeerattil/NumberlinkSolver" style="display:block; line-height:0;">
-        <img
-          src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
-          style="width:100%; height:auto; display:block;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Centered Container Controlling Total Width -->
+<div style="max-width:900px; margin:0 auto;">
 
-<!-- Graph: same max-width and centered so edges align -->
-<div style="max-width:900px; width:100%; margin:0 auto 10px; padding:0; line-height:0;">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true"
-    style="width:100%; height:auto; display:block;" />
+  <!-- Repo Row -->
+  <div style="display:flex; margin-bottom:10px;">
+    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
+       style="width:calc(50% - 5px); margin-right:10px; line-height:0;">
+      <img
+        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
+        style="width:100%; display:block;" />
+    </a>
+    <a href="https://github.com/RitvikNeerattil/NumberlinkSolver"
+       style="width:calc(50% - 5px); line-height:0;">
+      <img
+        src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=NumberlinkSolver&theme=github_dark_dimmed"
+        style="width:100%; display:block;" />
+    </a>
+
+  </div>
+
+  <!-- Graph -->
+  <div style="margin-bottom:10px; line-height:0;">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&hide_title=true"
+      style="width:100%; display:block;" />
+  </div>
+
 </div>
+
 
 <!-- Badge Row -->
 <div align="center" style="margin:0; padding:0; display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
