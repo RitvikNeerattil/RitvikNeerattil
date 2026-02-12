@@ -5,15 +5,15 @@
 ---
 I'm a student at the University of South Carolina majoring in Computer Science and minoring in Data Science and Cybersecurity. I enjoy solving challenging problems through thoughtful design and practical coding.
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td border="0">
+    <td style="border: none;">
       <img 
         src="https://streak-stats.demolab.com?user=RitvikNeerattil&theme=github-dark-dimmed&hide_border=true&border_radius=16&card_width=170&card_height=300&hide_current_streak=true&hide_longest_streak=true"
         height="300"
       />
     </td>
-    <td border="0">
+    <td style="border: none;">
       <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github&hide_border=true&radius=16&custom_title=Contribution%20Graph"
         height="300"
@@ -21,6 +21,7 @@ I'm a student at the University of South Carolina majoring in Computer Science a
     </td>
   </tr>
 </table>
+
 
 
 
