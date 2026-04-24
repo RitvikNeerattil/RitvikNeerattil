@@ -19,7 +19,7 @@ I'm a student at the University of South Carolina majoring in Computer Science a
 <div align="center" style="margin:0 0 10px 0; font-size:0;">
   <a href="https://github.com/RitvikNeerattil/StudyHub">
     <img style="width:calc(50% - 5px); display:inline-block;" 
-         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=StudyHub&theme=github_dark_dimmed&border_radius=16" />
+         src="https://github-readme-stats-tau-kohl-19.vercel.app/api/pin/?username=RitvikNeerattil&repo=StudyHub&theme=github_dark_dimmed&border_radius=15" />
   </a><!--
   --><span style="display:inline-block; width:10px;"></span><!--
   --><a href="https://github.com/RitvikNeerattil/NumberlinkSolver">
