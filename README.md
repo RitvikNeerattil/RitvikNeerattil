@@ -28,12 +28,6 @@ I'm a student at the University of South Carolina majoring in Computer Science a
   </a>
 </div>
 
-<div align="center">
-  <img width="100%" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=RitvikNeerattil&theme=github-dark-dimmed&hide_border=true&radius=16&hide_title=true" />
-</div>
-
-
 <div align="center" style="margin:0; padding:0; display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
